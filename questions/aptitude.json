@@ -1,0 +1,101 @@
+{
+  "subject": "Aptitude",
+  "version": 1,
+  "questions": [
+    {
+      "id": 1,
+      "text": "If a train travels 300 km in 4 hours, what is its average speed in km/h?",
+      "options": ["A) 60 km/h", "B) 70 km/h", "C) 75 km/h", "D) 80 km/h"],
+      "correctAnswer": 2,
+      "explanation": "Average speed = Total distance / Total time = 300 / 4 = 75 km/h. Always use the formula: Speed = Distance / Time.",
+      "difficulty": "EASY",
+      "year": 2023
+    },
+    {
+      "id": 2,
+      "text": "Find the next number in the series: 2, 6, 18, 54, ___",
+      "options": ["A) 108", "B) 162", "C) 216", "D) 270"],
+      "correctAnswer": 1,
+      "explanation": "Each term is multiplied by 3: 2x3=6, 6x3=18, 18x3=54, 54x3=162. This is a geometric sequence with common ratio 3.",
+      "difficulty": "EASY",
+      "year": 2022
+    },
+    {
+      "id": 3,
+      "text": "A shopkeeper buys an item for 500 ETB and sells it for 650 ETB. What is the profit percentage?",
+      "options": ["A) 20%", "B) 25%", "C) 30%", "D) 35%"],
+      "correctAnswer": 2,
+      "explanation": "Profit = 650 - 500 = 150 ETB. Profit % = (Profit / Cost Price) x 100 = (150 / 500) x 100 = 30%.",
+      "difficulty": "EASY",
+      "year": 2023
+    },
+    {
+      "id": 4,
+      "text": "If all Bloops are Razzles and all Razzles are Lazzles, which statement must be true?",
+      "options": [
+        "A) All Lazzles are Bloops",
+        "B) All Bloops are Lazzles",
+        "C) No Bloops are Lazzles",
+        "D) Some Razzles are not Lazzles"
+      ],
+      "correctAnswer": 1,
+      "explanation": "This is a syllogism: Bloops -> Razzles -> Lazzles. Therefore Bloops -> Lazzles (all Bloops are Lazzles). The chain of inclusion is transitive.",
+      "difficulty": "MEDIUM",
+      "year": 2021
+    },
+    {
+      "id": 5,
+      "text": "Two workers can complete a job in 6 days. How many days would it take 3 workers to complete the same job (same rate)?",
+      "options": ["A) 2 days", "B) 3 days", "C) 4 days", "D) 9 days"],
+      "correctAnswer": 2,
+      "explanation": "Total work = 2 workers x 6 days = 12 worker-days. With 3 workers: 12 / 3 = 4 days. More workers means fewer days (inverse proportion).",
+      "difficulty": "MEDIUM",
+      "year": 2022
+    },
+    {
+      "id": 6,
+      "text": "The word TEACHER is coded as VGCEJGT. What is the code for STUDENT?",
+      "options": ["A) UVWFGPV", "B) RSTCDMS", "C) UVWGFPV", "D) VWXFHQV"],
+      "correctAnswer": 0,
+      "explanation": "Each letter is shifted forward by 2 positions in the alphabet. T+2=V, E+2=G, A+2=C, C+2=E, H+2=J, E+2=G, R+2=T. Applying same: S+2=U, T+2=V, U+2=W, D+2=F, E+2=G, N+2=P, T+2=V = UVWFGPV.",
+      "difficulty": "HARD",
+      "year": 2022
+    },
+    {
+      "id": 7,
+      "text": "What percentage of 80 is 20?",
+      "options": ["A) 15%", "B) 20%", "C) 25%", "D) 40%"],
+      "correctAnswer": 2,
+      "explanation": "Percentage = (Part / Whole) x 100 = (20 / 80) x 100 = 25%. So 20 is 25% of 80.",
+      "difficulty": "EASY",
+      "year": 2023
+    },
+    {
+      "id": 8,
+      "text": "In a class of 40 students, 60% are girls. How many boys are in the class?",
+      "options": ["A) 12", "B) 16", "C) 18", "D) 24"],
+      "correctAnswer": 1,
+      "explanation": "Girls = 60% of 40 = 24. Boys = 40 - 24 = 16. Alternatively: boys = 40% of 40 = 16.",
+      "difficulty": "EASY",
+      "year": 2022
+    },
+    {
+      "id": 9,
+      "text": "Choose the odd one out: 3, 5, 7, 9, 11",
+      "options": ["A) 3", "B) 5", "C) 9", "D) 11"],
+      "correctAnswer": 2,
+      "explanation": "3, 5, 7, 11 are all prime numbers. 9 is NOT prime (9 = 3 x 3). Therefore 9 is the odd one out.",
+      "difficulty": "MEDIUM",
+      "year": 2023
+    },
+    {
+      "id": 10,
+      "text": "A rectangle has a length of 12 cm and a width of 5 cm. What is the length of its diagonal?",
+      "options": ["A) 13 cm", "B) 15 cm", "C) 17 cm", "D) 60 cm"],
+      "correctAnswer": 0,
+      "explanation": "Using the Pythagorean theorem: diagonal^2 = length^2 + width^2 = 12^2 + 5^2 = 144 + 25 = 169. Diagonal = sqrt(169) = 13 cm.",
+      "difficulty": "MEDIUM",
+      "year": 2022
+    }
+  ]
+}

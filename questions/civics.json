@@ -1,0 +1,106 @@
+{
+  "subject": "Civics",
+  "version": 1,
+  "questions": [
+    {
+      "id": 1,
+      "text": "The current constitution of Ethiopia was adopted in which year?",
+      "options": ["A) 1987", "B) 1991", "C) 1995", "D) 2000"],
+      "correctAnswer": 2,
+      "explanation": "The Constitution of the Federal Democratic Republic of Ethiopia (FDRE) was adopted on August 21, 1995. It establishes Ethiopia as a federal state with a parliamentary system of government.",
+      "difficulty": "EASY",
+      "year": 2023
+    },
+    {
+      "id": 2,
+      "text": "Which branch of government in Ethiopia is responsible for making federal laws?",
+      "options": ["A) The Executive (Prime Minister and Cabinet)", "B) The Federal Parliament (HPR and HoF)", "C) The Federal Supreme Court", "D) The President"],
+      "correctAnswer": 1,
+      "explanation": "The Federal Parliament of Ethiopia consists of two chambers: the House of Peoples' Representatives (HPR) and the House of Federation (HoF). Together they are the legislative branch responsible for making federal laws.",
+      "difficulty": "MEDIUM",
+      "year": 2022
+    },
+    {
+      "id": 3,
+      "text": "According to the FDRE Constitution, sovereignty in Ethiopia belongs to:",
+      "options": ["A) The Prime Minister", "B) The Parliament", "C) The Nations, Nationalities, and Peoples of Ethiopia", "D) The ruling political party"],
+      "correctAnswer": 2,
+      "explanation": "Article 8 of the FDRE Constitution states: 'All sovereign power resides in the Nations, Nationalities and Peoples of Ethiopia.' This is the principle of popular sovereignty.",
+      "difficulty": "MEDIUM",
+      "year": 2021
+    },
+    {
+      "id": 4,
+      "text": "Which of the following is a fundamental duty of Ethiopian citizens under the constitution?",
+      "options": [
+        "A) To pay taxes and defend the country",
+        "B) To join the ruling political party",
+        "C) To work only in the government sector",
+        "D) To attend parliament sessions"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The FDRE Constitution outlines duties of citizens including: paying taxes, protecting the environment, defending the country, and respecting the rights of others. Paying taxes and national defense are core duties.",
+      "difficulty": "EASY",
+      "year": 2023
+    },
+    {
+      "id": 5,
+      "text": "The rule of law means that:",
+      "options": [
+        "A) Only rulers and officials are above the law",
+        "B) Every person and institution, including the government, is subject to and accountable to the law",
+        "C) Laws can be changed by any citizen at any time",
+        "D) Military force determines what is legal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The rule of law is the principle that all people and institutions -- including government officials -- are subject to and accountable under the law. No one is above the law.",
+      "difficulty": "MEDIUM",
+      "year": 2022
+    },
+    {
+      "id": 6,
+      "text": "Human rights are best described as rights that:",
+      "options": [
+        "A) Are granted by governments and can be taken away",
+        "B) Apply only to citizens of a specific country",
+        "C) Are inherent to all human beings regardless of nationality, race, gender, or religion",
+        "D) Only wealthy and educated people can claim"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Human rights are universal, inherent, inalienable, and indivisible rights that belong to all human beings by virtue of their humanity -- not granted by governments. They are enshrined in the 1948 Universal Declaration of Human Rights.",
+      "difficulty": "EASY",
+      "year": 2022
+    },
+    {
+      "id": 7,
+      "text": "Ethiopia's federal system divides power between the federal government and:",
+      "options": ["A) Districts (woredas)", "B) Regional states", "C) Village councils", "D) International organizations"],
+      "correctAnswer": 1,
+      "explanation": "Ethiopia has a federal system where power is constitutionally divided between the federal (central) government and the regional states (currently 12 regions). Regions have their own governments and councils.",
+      "difficulty": "MEDIUM",
+      "year": 2023
+    },
+    {
+      "id": 8,
+      "text": "Freedom of expression, as a fundamental right, primarily protects the right to:",
+      "options": [
+        "A) Say anything without any legal consequences whatsoever",
+        "B) Express opinions, ideas, and information without undue government interference",
+        "C) Broadcast television programs without a license",
+        "D) Criticize individuals in private conversations only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Freedom of expression protects the right to share opinions, information, and ideas without government censorship or punishment. However, it is not absolute -- it may be limited by laws against incitement, defamation, and hate speech.",
+      "difficulty": "MEDIUM",
+      "year": 2021
+    },
+    {"id": 9,
+    "text": "What does this symbol represent?",
+    "imageUrl": "https://i1.wp.com/aniwave.dk/wp-content/uploads/2026/04/1775308833-4262-155054.jpg?resize=247,350",
+    "options": ["A) Opt 1", "B) Opt 2", "C) Opt 3", "D) Opt 4"],
+    "correctAnswer": 0,
+      "year": 2021,
+      "difficulty": "MEDIUM",
+    "explanation": "..."}
+  ]
+}

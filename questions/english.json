@@ -1,0 +1,76 @@
+{
+  "subject": "English",
+  "version": 1,
+  "questions": [
+    {
+      "id": 1,
+      "text": "Choose the word that best completes the sentence:\nThe scientist's discovery was so _______ that it changed the entire field of medicine.",
+      "options": [
+        "A) trivial",
+        "B) redundant",
+        "C) groundbreaking",
+        "D) ambiguous"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Groundbreaking' means innovative or pioneering — perfectly fitting a discovery that changed an entire field. 'Trivial' means unimportant, 'redundant' means unnecessary, and 'ambiguous' means unclear.",
+      "difficulty": "MEDIUM",
+      "year": 2022
+    },
+    {
+      "id": 2,
+      "text": "Identify the grammatically correct sentence:",
+      "options": [
+        "A) Neither the students nor the teacher were prepared.",
+        "B) Neither the students nor the teacher was prepared.",
+        "C) Neither the students nor the teacher are prepared.",
+        "D) Neither the students nor the teacher have prepared."
+      ],
+      "correctAnswer": 1,
+      "explanation": "With 'neither…nor', the verb agrees with the subject closest to it. Here 'the teacher' (singular) is closest, so we use 'was'. This rule is called the 'proximity rule'.",
+      "difficulty": "HARD",
+      "year": 2021
+    },
+    {
+      "id": 3,
+      "text": "What is the meaning of the underlined word in the following sentence?\nThe professor gave an AMBIGUOUS explanation that left students confused.",
+      "options": [
+        "A) Very detailed",
+        "B) Open to more than one interpretation",
+        "C) Completely wrong",
+        "D) Unnecessarily long"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Ambiguous' comes from Latin 'ambigere' meaning 'to wander'. It describes something that can be understood in more than one way, causing uncertainty or confusion.",
+      "difficulty": "EASY",
+      "year": 2023
+    },
+    {
+      "id": 4,
+      "text": "Choose the correct passive form of:\n'The committee will announce the results tomorrow.'",
+      "options": [
+        "A) The results will be announced by the committee tomorrow.",
+        "B) The results will have announced by the committee tomorrow.",
+        "C) The results are being announced by the committee tomorrow.",
+        "D) The results were announced by the committee tomorrow."
+      ],
+      "correctAnswer": 0,
+      "explanation": "To form the future passive, use 'will + be + past participle'. Active: 'will announce' → Passive: 'will be announced'. The agent phrase 'by the committee' is retained.",
+      "difficulty": "MEDIUM",
+      "year": 2022
+    },
+    {
+      "id": 5,
+      "text": "Read the following passage and answer the question.\n\n'Ethiopia, often called the cradle of humanity, has one of the world's oldest civilisations. Its unique script, Ge'ez, has been used for over 2,000 years and remains in liturgical use today.'\n\nAccording to the passage, Ge'ez is best described as:",
+      "options": [
+        "A) A modern Ethiopian language",
+        "B) An ancient script still used in religious contexts",
+        "C) A script that is no longer in use",
+        "D) The official writing system of Ethiopia's government"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The passage states Ge'ez has been used for over 2,000 years and 'remains in liturgical use today.' Liturgical means relating to religious worship, making option B the correct inference from the text.",
+      "difficulty": "EASY",
+      "year": 2023
+    }
+  ]
+}

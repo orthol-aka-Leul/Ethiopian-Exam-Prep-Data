@@ -1,0 +1,111 @@
+{
+  "subject": "Physics",
+  "version": 1,
+  "questions": [
+    {
+      "id": 1,
+      "text": "A car accelerates from rest to 20 m/s in 5 seconds. What is its acceleration?",
+      "options": ["A) 2 m/s^2", "B) 4 m/s^2", "C) 5 m/s^2", "D) 10 m/s^2"],
+      "correctAnswer": 1,
+      "explanation": "Acceleration a = (v - u) / t = (20 - 0) / 5 = 4 m/s^2. Using the equation a = delta_v / delta_t.",
+      "difficulty": "EASY",
+      "year": 2023
+    },
+    {
+      "id": 2,
+      "text": "What is the SI unit of electric resistance?",
+      "options": ["A) Ampere", "B) Volt", "C) Ohm", "D) Watt"],
+      "correctAnswer": 2,
+      "explanation": "The SI unit of electrical resistance is the Ohm (symbol: omega), named after Georg Simon Ohm. It is defined as 1 V/A (one volt per ampere).",
+      "difficulty": "EASY",
+      "year": 2022
+    },
+    {
+      "id": 3,
+      "text": "A body of mass 5 kg is lifted to a height of 10 m. What is its gravitational potential energy? (g = 10 m/s^2)",
+      "options": ["A) 50 J", "B) 100 J", "C) 500 J", "D) 1000 J"],
+      "correctAnswer": 2,
+      "explanation": "Gravitational PE = mgh = 5 x 10 x 10 = 500 J. The formula uses mass (m), gravitational field strength (g), and height (h).",
+      "difficulty": "EASY",
+      "year": 2023
+    },
+    {
+      "id": 4,
+      "text": "Which of the following best describes the relationship stated by Ohm's Law?",
+      "options": [
+        "A) Voltage is inversely proportional to current at constant resistance",
+        "B) Current is directly proportional to voltage at constant resistance",
+        "C) Resistance increases as voltage increases",
+        "D) Power equals current squared times voltage"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ohm's Law: V = IR. This means I = V/R. At constant resistance, current (I) is directly proportional to voltage (V). Doubling V doubles I.",
+      "difficulty": "MEDIUM",
+      "year": 2022
+    },
+    {
+      "id": 5,
+      "text": "The speed of light in a vacuum is approximately:",
+      "options": ["A) 3 x 10^6 m/s", "B) 3 x 10^8 m/s", "C) 3 x 10^10 m/s", "D) 3 x 10^4 m/s"],
+      "correctAnswer": 1,
+      "explanation": "The speed of light in a vacuum (c) is approximately 3 x 10^8 m/s (exactly 299,792,458 m/s). This is a fundamental physical constant.",
+      "difficulty": "EASY",
+      "year": 2021
+    },
+    {
+      "id": 6,
+      "text": "A wave has a frequency of 500 Hz and a wavelength of 0.68 m. What is its speed?",
+      "options": ["A) 34 m/s", "B) 340 m/s", "C) 3400 m/s", "D) 0.00136 m/s"],
+      "correctAnswer": 1,
+      "explanation": "Wave speed v = frequency x wavelength = 500 x 0.68 = 340 m/s. This is approximately the speed of sound in air at room temperature.",
+      "difficulty": "MEDIUM",
+      "year": 2022
+    },
+    {
+      "id": 7,
+      "text": "Newton's Third Law states that:",
+      "options": [
+        "A) Force equals mass times acceleration",
+        "B) An object at rest stays at rest unless acted upon by a net force",
+        "C) For every action there is an equal and opposite reaction",
+        "D) The net force on an object equals the rate of change of momentum"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Newton's Third Law: For every action (force) there is an equal and opposite reaction force. Example: a rocket expels gas downward; the gas pushes the rocket upward.",
+      "difficulty": "EASY",
+      "year": 2023
+    },
+    {
+      "id": 8,
+      "text": "Which type of electromagnetic radiation has the shortest wavelength?",
+      "options": ["A) Radio waves", "B) Infrared", "C) Ultraviolet", "D) Gamma rays"],
+      "correctAnswer": 3,
+      "explanation": "Gamma rays have the shortest wavelength (less than 10^-11 m) and highest frequency in the electromagnetic spectrum. Shorter wavelength means higher energy.",
+      "difficulty": "MEDIUM",
+      "year": 2021
+    },
+    {
+      "id": 9,
+      "text": "What happens to the pressure of a fixed amount of gas if its volume is halved at constant temperature?",
+      "options": [
+        "A) Pressure is halved",
+        "B) Pressure doubles",
+        "C) Pressure stays the same",
+        "D) Pressure quadruples"
+      ],
+      "correctAnswer": 1,
+      "explanation": "By Boyle's Law: P1V1 = P2V2 at constant temperature. If V is halved (V2 = V1/2), then P2 = 2P1. So the pressure doubles.",
+      "difficulty": "MEDIUM",
+      "year": 2022
+    },
+    {
+      "id": 10,
+      "text": "A 60 W light bulb is used for 2 hours. How much electrical energy does it consume?",
+      "options": ["A) 120 J", "B) 432 J", "C) 432,000 J", "D) 30 J"],
+      "correctAnswer": 2,
+      "explanation": "Energy = Power x Time = 60 W x (2 x 3600 s) = 60 x 7200 = 432,000 J (432 kJ). Always convert time to seconds: 2 hours = 7200 s.",
+      "difficulty": "MEDIUM",
+      "year": 2023
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "subject": "Economics",
+  "version": 1,
+  "questions": [
+    {
+      "id": 1,
+      "text": "Economics is primarily concerned with:",
+      "options": [
+        "A) How governments collect taxes",
+        "B) How scarce resources are allocated to satisfy unlimited wants",
+        "C) The study of money supply and banking only",
+        "D) International trade agreements between countries"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Economics studies how individuals, businesses, and societies allocate scarce resources (land, labour, capital, entrepreneurship) to satisfy unlimited human wants. Scarcity is the core problem.",
+      "difficulty": "EASY",
+      "year": 2023
+    },
+    {
+      "id": 2,
+      "text": "When the price of a good rises and the quantity demanded falls, this illustrates:",
+      "options": ["A) The Law of Supply", "B) The Law of Demand", "C) Elasticity of Supply", "D) Market equilibrium"],
+      "correctAnswer": 1,
+      "explanation": "The Law of Demand states: all else equal, as price rises, quantity demanded falls (inverse relationship). This happens because goods become relatively more expensive compared to substitutes.",
+      "difficulty": "EASY",
+      "year": 2022
+    },
+    {
+      "id": 3,
+      "text": "GDP (Gross Domestic Product) measures:",
+      "options": [
+        "A) The total value of goods and services produced by a country's citizens abroad",
+        "B) The total value of goods and services produced within a country's borders in a given period",
+        "C) Total government spending in a fiscal year",
+        "D) The average income of citizens in a country"
+      ],
+      "correctAnswer": 1,
+      "explanation": "GDP is the total monetary value of all final goods and services produced within a country's geographic borders during a specific time period (usually a year). It is the main measure of economic size.",
+      "difficulty": "MEDIUM",
+      "year": 2021
+    },
+    {
+      "id": 4,
+      "text": "What is inflation?",
+      "options": [
+        "A) A decrease in the general price level over time",
+        "B) An increase in the general price level over time",
+        "C) An increase in the quantity of goods produced",
+        "D) A decrease in unemployment rate"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Inflation is a sustained increase in the general price level of goods and services over time, which reduces the purchasing power of money. It is measured using indices such as the CPI (Consumer Price Index).",
+      "difficulty": "EASY",
+      "year": 2023
+    },
+    {
+      "id": 5,
+      "text": "Which of the following is an example of a public good?",
+      "options": ["A) A cinema ticket", "B) A loaf of bread", "C) Street lighting", "D) A private hospital room"],
+      "correctAnswer": 2,
+      "explanation": "A public good is non-excludable (cannot prevent people from using it) and non-rival (one person's use does not reduce availability to others). Street lighting fits both criteria.",
+      "difficulty": "MEDIUM",
+      "year": 2022
+    },
+    {
+      "id": 6,
+      "text": "The opportunity cost of a decision is:",
+      "options": [
+        "A) The monetary price paid for a good",
+        "B) The value of the next best alternative foregone",
+        "C) The total cost of production including labour and materials",
+        "D) The profit earned from a business decision"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Opportunity cost is the value of the best alternative you give up when making a choice. Example: if you study instead of working, the opportunity cost is the wage you could have earned.",
+      "difficulty": "MEDIUM",
+      "year": 2022
+    },
+    {
+      "id": 7,
+      "text": "A market is in equilibrium when:",
+      "options": [
+        "A) Supply is greater than demand",
+        "B) Demand is greater than supply",
+        "C) Quantity supplied equals quantity demanded at the market price",
+        "D) Government sets the price for all goods"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Market equilibrium occurs when quantity supplied equals quantity demanded at the equilibrium price. At this point there is no tendency for the price to change and no surplus or shortage.",
+      "difficulty": "MEDIUM",
+      "year": 2023
+    },
+    {
+      "id": 8,
+      "text": "Which type of economic system allows private ownership and market prices to allocate resources?",
+      "options": ["A) Command economy", "B) Traditional economy", "C) Mixed economy", "D) Market (capitalist) economy"],
+      "correctAnswer": 3,
+      "explanation": "In a market (capitalist) economy, resources are owned privately and prices are determined by supply and demand. The government plays a minimal role. Most modern economies are mixed (blend of market and command).",
+      "difficulty": "MEDIUM",
+      "year": 2021
+    }
+  ]
+}

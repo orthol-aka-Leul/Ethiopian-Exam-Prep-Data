@@ -1,0 +1,78 @@
+{
+  "subject": "History",
+  "version": 1,
+  "questions": [
+    {
+      "id": 1,
+      "text": "The Battle of Adwa (1896) was a significant victory for Ethiopia against which colonial power?",
+      "options": ["A) Britain", "B) France", "C) Italy", "D) Portugal"],
+      "correctAnswer": 2,
+      "explanation": "On March 1, 1896, Ethiopian forces under Emperor Menelik II defeated the Italian army at the Battle of Adwa. It was the first major African victory over a European colonial power and secured Ethiopian independence.",
+      "difficulty": "EASY",
+      "year": 2023
+    },
+    {
+      "id": 2,
+      "text": "Which Ethiopian emperor is credited with modernizing Ethiopia and founding Addis Ababa as the capital?",
+      "options": ["A) Tewodros II", "B) Yohannes IV", "C) Menelik II", "D) Haile Selassie I"],
+      "correctAnswer": 2,
+      "explanation": "Emperor Menelik II (r. 1889-1913) founded Addis Ababa as the capital around 1886, modernized the army, introduced telegraph and telephone systems, and expanded Ethiopian territory.",
+      "difficulty": "EASY",
+      "year": 2022
+    },
+    {
+      "id": 3,
+      "text": "The Organization of African Unity (OAU), which later became the African Union (AU), was founded in which city?",
+      "options": ["A) Cairo, Egypt", "B) Addis Ababa, Ethiopia", "C) Nairobi, Kenya", "D) Lagos, Nigeria"],
+      "correctAnswer": 1,
+      "explanation": "The OAU was founded on May 25, 1963 in Addis Ababa, Ethiopia. It was transformed into the African Union (AU) in 2002. Ethiopia hosts the AU headquarters to this day.",
+      "difficulty": "MEDIUM",
+      "year": 2021
+    },
+    {
+      "id": 4,
+      "text": "The Derg regime in Ethiopia came to power by overthrowing which ruler in 1974?",
+      "options": ["A) Emperor Menelik II", "B) Emperor Yohannes IV", "C) Emperor Haile Selassie I", "D) Emperor Tewodros II"],
+      "correctAnswer": 2,
+      "explanation": "The Derg, a military junta, overthrew Emperor Haile Selassie I in September 1974. The regime ruled Ethiopia under Mengistu Haile Mariam until 1991 when it was defeated by rebel forces.",
+      "difficulty": "MEDIUM",
+      "year": 2022
+    },
+    {
+      "id": 5,
+      "text": "Which ancient African civilization built the pyramids along the Nile in present-day Sudan?",
+      "options": ["A) Aksum", "B) Kush / Meroe", "C) Mali Empire", "D) Carthage"],
+      "correctAnswer": 1,
+      "explanation": "The Kingdom of Kush (and later the Meroitic civilization) built hundreds of pyramids along the Nile in present-day Sudan between 700 BCE and 350 CE, influenced by but distinct from Egyptian pyramids.",
+      "difficulty": "HARD",
+      "year": 2022
+    },
+    {
+      "id": 6,
+      "text": "The Aksumite Empire is known for being one of the first states in the world to officially adopt which religion?",
+      "options": ["A) Islam", "B) Judaism", "C) Christianity", "D) Buddhism"],
+      "correctAnswer": 2,
+      "explanation": "The Aksumite Empire, under King Ezana, officially adopted Christianity around 330 CE -- making it one of the first states in the world to do so, even before the Roman Empire made it the state religion.",
+      "difficulty": "MEDIUM",
+      "year": 2023
+    },
+    {
+      "id": 7,
+      "text": "The Scramble for Africa, during which European powers partitioned the African continent, mainly occurred during:",
+      "options": ["A) 1750-1800", "B) 1815-1850", "C) 1880-1900", "D) 1920-1950"],
+      "correctAnswer": 2,
+      "explanation": "The 'Scramble for Africa' occurred primarily between 1880 and 1900. It was formalized by the Berlin Conference (1884-85) at which European powers divided Africa without African participation.",
+      "difficulty": "MEDIUM",
+      "year": 2021
+    },
+    {
+      "id": 8,
+      "text": "Which treaty following World War I created new nations and mandates in the Middle East and Africa?",
+      "options": ["A) Treaty of Westphalia", "B) Treaty of Versailles", "C) Treaty of Paris", "D) Treaty of Berlin"],
+      "correctAnswer": 1,
+      "explanation": "The Treaty of Versailles (1919) ended WWI and reshaped global borders, including redistribution of German colonies in Africa and Ottoman territories in the Middle East as League of Nations mandates.",
+      "difficulty": "HARD",
+      "year": 2022
+    }
+  ]
+}

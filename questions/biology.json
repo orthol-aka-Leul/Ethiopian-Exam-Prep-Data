@@ -1,1 +1,890 @@
-
+{
+  "subject": "Biology",
+  "version": 1,
+  "questions": [
+    {
+      "id": 1,
+      "text": "Which one of the following is the main constituent of biological membranes?",
+      "options": ["A) Phospholipids", "B) Glycoproteins", "C) Glycolipids", "D) Cholesterol"],
+      "correctAnswer": 0,
+      "year": 2012,
+      "difficulty": "EASY",
+      "explanation": "Phospholipids form the fundamental bilayer structure of all biological membranes due to their amphipathic properties."
+    },
+    {
+      "id": 2,
+      "text": "One of the following biomes in Africa is supporting large wild mammals such as elephants, giraffes and lions.",
+      "options": ["A) The Congo rain forest", "B) The rain forest of western Ethiopia", "C) The savanna grassland", "D) The Sahara desert"],
+      "correctAnswer": 2,
+      "year": 2012,
+      "difficulty": "EASY",
+      "explanation": "The savanna grassland provides the necessary space and food sources (grasses and shrubs) for large African herbivores and their predators."
+    },
+    {
+      "id": 3,
+      "text": "Which of the following steps in the scientific method comes following observation?",
+      "options": ["A) Predication", "B) Hypothesis", "C) Experiment", "D) Theory"],
+      "correctAnswer": 1,
+      "year": 2012,
+      "difficulty": "EASY",
+      "explanation": "In the scientific method, an observation leads to a question, which is followed by the formation of a hypothesis."
+    },
+    {
+      "id": 4,
+      "text": "The main components of the plant cell wall are?",
+      "options": ["A) Starch", "B) Cellulose", "C) protein", "D) chitin"],
+      "correctAnswer": 1,
+      "year": 2012,
+      "difficulty": "EASY",
+      "explanation": "Cellulose is the primary structural polysaccharide found in the cell walls of green plants."
+    },
+    {
+      "id": 5,
+      "text": "Which of the following classes of enzymes digests carbohydrates?",
+      "options": ["A) Amylases", "B) Lipases", "C) Proteases", "D) Nucleases"],
+      "correctAnswer": 0,
+      "year": 2012,
+      "difficulty": "EASY",
+      "explanation": "Amylases are enzymes that catalyze the hydrolysis of starch into sugars."
+    },
+    {
+      "id": 6,
+      "text": "Which of the following kingdoms of life is consisting of prokaryotic organisms?",
+      "options": ["A) Fungi", "B) Monera", "C) Protista", "D) Plantae"],
+      "correctAnswer": 1,
+      "year": 2012,
+      "difficulty": "EASY",
+      "explanation": "Kingdom Monera contains all prokaryotic organisms, including bacteria and archaea."
+    },
+    {
+      "id": 7,
+      "text": "Which component of soil fertility is improved when farmers grow legumes in crop rotation?",
+      "options": ["A) Phosphorus", "B) Nitrogen", "C) Sulfur", "D) Carbon"],
+      "correctAnswer": 1,
+      "year": 2012,
+      "difficulty": "MEDIUM",
+      "explanation": "Legumes have root nodules containing Rhizobium bacteria that fix atmospheric nitrogen into the soil."
+    },
+    {
+      "id": 8,
+      "text": "Before making crosses, which part of the flower did Mendel remove to avoid self pollination?",
+      "options": ["A) Stigma", "B) Ovule", "C) Ovary", "D) Stamens"],
+      "correctAnswer": 3,
+      "year": 2012,
+      "difficulty": "MEDIUM",
+      "explanation": "Mendel removed the stamens (male parts) to prevent self-fertilization and ensure controlled cross-pollination."
+    },
+    {
+      "id": 9,
+      "text": "Which one of the following do bees use to inform other bees about location and distance of a new source of nectar they discover?",
+      "options": ["A) Pheromones", "B) Waggle dance", "C) Buzzing noise", "D) vibration of wings"],
+      "correctAnswer": 1,
+      "year": 2012,
+      "difficulty": "MEDIUM",
+      "explanation": "The waggle dance is a sophisticated communication method used by honeybees to share the direction and distance to a nectar source."
+    },
+    {
+      "id": 10,
+      "text": "One of the following molecules is the building units of an enzyme molecule.",
+      "options": ["A) Amino acids", "B) glucose", "C) Nucleotides", "D) Fatty acids"],
+      "correctAnswer": 0,
+      "year": 2012,
+      "difficulty": "EASY",
+      "explanation": "Enzymes are proteins, which are polymers made up of amino acid monomers."
+    },
+    {
+      "id": 11,
+      "text": "What are the specialists in biology called if he/she studies fossils to generate new knowledge on the origin and evolution of living things of past geologic periods?",
+      "options": ["A) Geneticist", "B) Ecologist", "C) Paleontogist", "D) comparative Biochemist"],
+      "correctAnswer": 2,
+      "year": 2012,
+      "difficulty": "EASY",
+      "explanation": "Paleontology is the scientific study of life that existed prior to, and sometimes including, the start of the Holocene Epoch, based on fossils."
+    },
+    {
+      "id": 12,
+      "text": "All proteins contain carbon, hydrogen, oxygen and what other element?",
+      "options": ["A) Chlorine", "B) Fluorine", "C) Nitrogen", "D) Sulphur"],
+      "correctAnswer": 2,
+      "year": 2012,
+      "difficulty": "EASY",
+      "explanation": "Nitrogen is a fundamental element found in the amine group of every amino acid, the building blocks of proteins."
+    },
+    {
+      "id": 13,
+      "text": "Which of the following is the correct F2 phenotypic ratio of a monohybrid cross?",
+      "options": ["A) 1:2", "B) 1:1", "C) 3:1", "D) 2:2"],
+      "correctAnswer": 2,
+      "year": 2012,
+      "difficulty": "MEDIUM",
+      "explanation": "In a Mendelian monohybrid cross between two heterozygotes (Tt x Tt), the resulting offspring show a 3:1 phenotypic ratio (3 dominant to 1 recessive)."
+    },
+    {
+      "id": 14,
+      "text": "How many carbon atoms are there in one disaccharide molecule?",
+      "options": ["A) 6", "B) 12", "C) 18", "D) 24"],
+      "correctAnswer": 1,
+      "year": 2012,
+      "difficulty": "EASY",
+      "explanation": "A disaccharide is formed by two monosaccharides (hexoses like glucose, C6H12O6). 6 + 6 = 12 carbon atoms."
+    },
+    {
+      "id": 15,
+      "text": "Which unit is best to use for measuring the smallest cells and organelles?",
+      "options": ["A) Micrometer", "B) Milliliter", "C) Millimeter", "D) Nanometer"],
+      "correctAnswer": 3,
+      "year": 2012,
+      "difficulty": "MEDIUM",
+      "explanation": "While micrometers are used for general cell size, the smallest organelles (like ribosomes) and cell structures are best measured in nanometers (nm)."
+    },
+    {
+      "id": 16,
+      "text": "Which energy rich organic compound contains adenine in its molecule?",
+      "options": ["A) Lipid", "B) Carbohydrate", "C) Glucose", "D) ATP"],
+      "correctAnswer": 3,
+      "year": 2012,
+      "difficulty": "EASY",
+      "explanation": "ATP (Adenosine Triphosphate) is composed of the nitrogenous base adenine, a ribose sugar, and three phosphate groups."
+    },
+    {
+      "id": 17,
+      "text": "What are the most frequent causative agents of food poisoning?",
+      "options": ["A) Bacteria", "B) Protozoa", "C) viruses", "D) Worms"],
+      "correctAnswer": 0,
+      "year": 2012,
+      "difficulty": "EASY",
+      "explanation": "Bacteria such as Salmonella, E. coli, and Listeria are the most common causes of foodborne illnesses."
+    },
+    {
+      "id": 18,
+      "text": "What are the most likely causes of variations within species?",
+      "options": ["A) Mitosis and a sexual reproduction.", "B) Overpopulation and overproduction.", "C) Vegetative propagation and cloning.", "D) Mutations and sexual reproduction."],
+      "correctAnswer": 3,
+      "year": 2012,
+      "difficulty": "MEDIUM",
+      "explanation": "Genetic variation is primarily driven by mutations (changes in DNA) and the recombination of genes during sexual reproduction."
+    },
+    {
+      "id": 19,
+      "text": "In which hominid species did scientists find the smallest brain size (cranial capacity)?",
+      "options": ["A) Homo Sapiens", "B) Homo Habilis", "C) Homo erectus", "D) Homo neanderthalensis"],
+      "correctAnswer": 1,
+      "year": 2012,
+      "difficulty": "HARD",
+      "explanation": "Among the Homo genus listed, Homo habilis has the smallest cranial capacity (roughly 500-800cc), appearing earlier in the evolutionary timeline than the others."
+    },
+    {
+      "id": 20,
+      "text": "Which of the following is NOT classified as a learned behavior?",
+      "options": ["A) Insight", "B) Innate", "C) Latent", "D) Conditioned"],
+      "correctAnswer": 1,
+      "year": 2012,
+      "difficulty": "EASY",
+      "explanation": "Innate behavior is instinctive and genetically programmed, whereas insight, latent, and conditioned behaviors are all forms of learning."
+    },
+    {
+      "id": 21,
+      "text": "In which one of the following aspects is the tropical rain forest biome poor?",
+      "options": ["A) Species diversity", "B) amount of sunlight", "C) Annual precipitation", "D) Soil fertility"],
+      "correctAnswer": 3,
+      "year": 2012,
+      "difficulty": "MEDIUM",
+      "explanation": "Tropical rainforest soils are often nutrient-poor because heavy rainfall leaches minerals away and high temperatures cause rapid decomposition and uptake of nutrients by plants."
+    },
+    {
+      "id": 22,
+      "text": "If the size of a cell increase, which one of the following gets smaller?",
+      "options": ["A) The volume of the cell", "B) The surface area of the cell", "C) surface area to volume ratio of cell", "D) volume to surface ratio of the cell"],
+      "correctAnswer": 2,
+      "year": 2012,
+      "difficulty": "HARD",
+      "explanation": "As a cell grows, its volume increases much faster than its surface area, causing the surface area to volume ratio to decrease."
+    },
+    {
+      "id": 23,
+      "text": "What makes unsaturated fatty acids different from saturated fatty acids?",
+      "options": ["A) The presence oflong chain of carbon", "B) The presence of one or more double bonds", "C) The presence of large number of hydrogen atoms", "D) Their occurrence as solid at room temperature"],
+      "correctAnswer": 1,
+      "year": 2012,
+      "difficulty": "MEDIUM",
+      "explanation": "Unsaturated fatty acids contain one or more double bonds between carbon atoms, which creates 'kinks' in the chain."
+    },
+    {
+      "id": 24,
+      "text": "Which of the following pairs of molecule are known to have catalytic activity?",
+      "options": ["A) Lipids and proteins", "B) carbohydrate and proteins", "C) protein and RNAs", "D) protein and DNAs"],
+      "correctAnswer": 2,
+      "year": 2012,
+      "difficulty": "HARD",
+      "explanation": "Proteins (as enzymes) and certain RNA molecules (known as ribozymes) both possess catalytic properties."
+    },
+    {
+      "id": 25,
+      "text": "If a suspension of a mixture of cellular organelle is spun in a centrifuge, which organelle settles to the bottom first?",
+      "options": ["A) Mitochondria", "B) Nuclei", "C) Chloroplasts", "D) Ribosomes"],
+      "correctAnswer": 1,
+      "year": 2012,
+      "difficulty": "MEDIUM",
+      "explanation": "In differential centrifugation, the largest and densest particles settle first. The nucleus is the largest organelle in the cell."
+    },
+    {
+      "id": 26,
+      "text": "During chemiosmosis, what substance diffuses from one side to the other side of the membrane?",
+      "options": ["A) Water molecules", "B) protons", "C) Electrons", "D) ATP molecules"],
+      "correctAnswer": 1,
+      "year": 2012,
+      "difficulty": "HARD",
+      "explanation": "Chemiosmosis is the movement of protons (H+ ions) across a semipermeable membrane down their electrochemical gradient to power ATP synthesis."
+    },
+    {
+      "id": 27,
+      "text": "Which of the following human diseases can be prevented by taking proper diets?",
+      "options": ["A) Degenerative diseases", "B) Genetic diseases", "C) Social diseases", "D) Deficiency diseases"],
+      "correctAnswer": 3,
+      "year": 2012,
+      "difficulty": "EASY",
+      "explanation": "Deficiency diseases, such as scurvy or rickets, are caused by a lack of specific nutrients and can be prevented by a balanced diet."
+    },
+    {
+      "id": 28,
+      "text": "When two species are compared, which of the following sources of evidence is least informative about the degree of relationships between the species?",
+      "options": ["A) Nucleotide sequence of DNAs", "B) Amino acid sequence of proteins", "C) Glucose sequence of polysaccharides", "D) DNA-DNA hybridization"],
+      "correctAnswer": 2,
+      "year": 2012,
+      "difficulty": "HARD",
+      "explanation": "Polysaccharides like starch or cellulose have simple, repetitive glucose sequences that do not vary between species in a way that reveals evolutionary lineage, unlike DNA or proteins."
+    },
+    {
+      "id": 29,
+      "text": "Which of the following practices does NOT normally transmit HIV?",
+      "options": ["A) Sexual intercourse through anus", "B) sharing injection needles", "C) Blood transfusion", "D) shaking hands"],
+      "correctAnswer": 3,
+      "year": 2012,
+      "difficulty": "EASY",
+      "explanation": "HIV is transmitted through specific bodily fluids; it is not spread through casual contact like shaking hands, hugging, or sharing food."
+    },
+    {
+      "id": 30,
+      "text": "What is the important role played by microorganism such as bacteria and fungi in the ecosystem?",
+      "options": ["A) Antibiotic production", "B) Recycling of nutrients", "C) Forming organic substance", "D) Supplying energy to the ecosystem"],
+      "correctAnswer": 1,
+      "year": 2012,
+      "difficulty": "MEDIUM",
+      "explanation": "Bacteria and fungi act as decomposers, breaking down dead organic matter and returning essential nutrients to the soil."
+    }
+  ,
+    {
+      "id": 31,
+      "text": "Which of the following theories explains evolutionary changes of living things in terms of changes in their allele frequencies?",
+      "options": ["A) Darwin's natural selection", "B) Spontaneous generation", "C) Inheritance of acquired characteristics", "D) Neo-Darwinism"],
+      "correctAnswer": 3,
+      "year": 2012,
+      "difficulty": "MEDIUM",
+      "explanation": "Neo-Darwinism (or the Modern Synthesis) combines Darwinian selection with Mendelian genetics, defining evolution as the change in allele frequencies within a population over time."
+    },
+    {
+      "id": 32,
+      "text": "Which of the following is an important function of the Golgi apparatus?",
+      "options": ["A) Protein synthesis", "B) packaging of proteins", "C) Removing of debris from cell", "D) Storage of waste materials not needed by the cell"],
+      "correctAnswer": 1,
+      "year": 2012,
+      "difficulty": "EASY",
+      "explanation": "The Golgi apparatus acts as the 'post office' of the cell, modifying, sorting, and packaging proteins into vesicles for secretion or delivery to other organelles."
+    },
+    {
+      "id": 33,
+      "text": "Which of the following is NOT usually true as an ecological succession progresses to advanced seral stages?",
+      "options": ["A) More ecological niches are formed", "B) Species become more diverse", "C) The depth of the soil increase", "D) Less population is supported"],
+      "correctAnswer": 3,
+      "year": 2012,
+      "difficulty": "HARD",
+      "explanation": "As succession progresses, the ecosystem typically supports a larger and more diverse total population, not a smaller one."
+    },
+    {
+      "id": 34,
+      "text": "One of the following is an important cause of gene mutation.",
+      "options": ["A) Old age", "B) Alcoholic drinks", "C) Smoking", "D) Radiation"],
+      "correctAnswer": 3,
+      "year": 2012,
+      "difficulty": "EASY",
+      "explanation": "Radiation (like UV rays or X-rays) is a well-known mutagen that can physically break or alter DNA sequences."
+    },
+    {
+      "id": 35,
+      "text": "What is the reproductive isolating mechanism called if two species of frogs do not interbreed because they cannot understand the mating calls of one another?",
+      "options": ["A) Seasonal isolation", "B) Behavioral isolation", "C) Temporal isolation", "D) isolation by distance"],
+      "correctAnswer": 1,
+      "year": 2012,
+      "difficulty": "MEDIUM",
+      "explanation": "Behavioral isolation occurs when specific rituals or signals (like mating calls) are not recognized by members of a different species."
+    },
+    {
+      "id": 36,
+      "text": "How many chromosomes do humans inherit from each of their parents?",
+      "options": ["A) 23 chromosome", "B) 23 pairs of chromosome", "C) 46 chromosome", "D) 46 pairs of chromosome"],
+      "correctAnswer": 0,
+      "year": 2012,
+      "difficulty": "EASY",
+      "explanation": "Humans have 46 chromosomes in total (23 pairs); one set of 23 is inherited from the mother and one set of 23 from the father."
+    },
+    {
+      "id": 37,
+      "text": "In which one of the four phases of population growth is the number of the population the highest?",
+      "options": ["A) Lag phase", "B) log phase", "C) Constant phase", "D) Decline phase"],
+      "correctAnswer": 2,
+      "year": 2012,
+      "difficulty": "MEDIUM",
+      "explanation": "The constant (or stationary) phase occurs when the population reaches the carrying capacity and stays at its maximum stable level."
+    },
+    {
+      "id": 38,
+      "text": "Which of the following is NOT true about the gene called SRY?",
+      "options": ["A) It is found on the Y-chromosome.", "B) It determines maleness.", "C) Testes develop in its presence.", "D) Female have two copies of this gene."],
+      "correctAnswer": 3,
+      "year": 2012,
+      "difficulty": "MEDIUM",
+      "explanation": "The SRY gene is located on the Y chromosome. Since biological females typically have two X chromosomes (XX), they do not have the SRY gene."
+    },
+    {
+      "id": 39,
+      "text": "To which of the following groups do those bacteriophages that integrate their DNA in to the chromosome of their bacterial host belong?",
+      "options": ["A) Virulent viruses", "B) Lytic viruses", "C) Lysogenic viruses", "D) Non-parasitic viruses"],
+      "correctAnswer": 2,
+      "year": 2012,
+      "difficulty": "MEDIUM",
+      "explanation": "Lysogenic viruses (or temperate phages) integrate their viral genome into the host's DNA, where it is replicated along with the host's chromosome."
+    },
+    {
+      "id": 40,
+      "text": "What do we call the learned behavior if a mouse that had just escaped from the mouth of a cat jumped violently at a slight touch by a trivial object?",
+      "options": ["A) Latent learning", "B) Sensitization", "C) Conditioning", "D) Imprinting"],
+      "correctAnswer": 1,
+      "year": 2012,
+      "difficulty": "MEDIUM",
+      "explanation": "Sensitization is a non-associative learning process in which repeated administration of a stimulus results in the progressive amplification of a response."
+    },
+    {
+      "id": 41,
+      "text": "In which of the following features are eukaryotic cells distinguished from prokaryotic cells?",
+      "options": ["A) They have mitochondria", "B) Their nuclei lack membrane", "C) They have no DNA", "D) They have smallest ribosomes"],
+      "correctAnswer": 0,
+      "year": 2012,
+      "difficulty": "EASY",
+      "explanation": "Eukaryotic cells contain membrane-bound organelles like mitochondria and a nucleus, which are absent in prokaryotes."
+    },
+    {
+      "id": 42,
+      "text": "What will happen if human red blood cells are kept in a hypotonic solution?",
+      "options": ["A) Lose water by osmosis and burst", "B) Lose water by osmosis and shrink", "C) Take in water by osmosis, swell and burst", "D) Take in water by osmosis, swell and remain turgid"],
+      "correctAnswer": 2,
+      "year": 2012,
+      "difficulty": "MEDIUM",
+      "explanation": "In a hypotonic solution (lower solute concentration outside), water enters the cell. Because animal cells lack a cell wall, they swell and eventually undergo lysis (burst)."
+    },
+    {
+      "id": 43,
+      "text": "Which of the following field equipment is used to determine an exact location of a place?",
+      "options": ["A) Theodolite", "B) Global positioning system", "C) Field microscope", "D) Field PH kit"],
+      "correctAnswer": 1,
+      "year": 2012,
+      "difficulty": "EASY",
+      "explanation": "GPS (Global Positioning System) uses satellite signals to provide exact geographical coordinates (latitude and longitude)."
+    },
+    {
+      "id": 44,
+      "text": "The sheep 'dolly' is an example of which biotechnological manipulation of animals by human?",
+      "options": ["A) Transgenic animal", "B) Genetically engineered animal", "C) Cloned animal", "D) Hybrid animal"],
+      "correctAnswer": 2,
+      "year": 2012,
+      "difficulty": "EASY",
+      "explanation": "Dolly was the first mammal successfully cloned from an adult somatic cell."
+    },
+    {
+      "id": 45,
+      "text": "Among the following, which one is the best criterion to show that two population belong to same species?",
+      "options": ["A) Morphological similarity", "B) Physiologically similarity", "C) Inhabiting the same geographic area", "D) Production of fertile offspring"],
+      "correctAnswer": 3,
+      "year": 2012,
+      "difficulty": "MEDIUM",
+      "explanation": "The biological species concept defines a species as a group of organisms that can interbreed and produce fertile offspring."
+    },
+    {
+      "id": 46,
+      "text": "In the process of the evolution of life on earth, which of the following four processes evolved last?",
+      "options": ["A) Photosynthesis", "B) Aerobic respiration", "C) chemosynthesis", "D) Photo-autotrophism"],
+      "correctAnswer": 1,
+      "year": 2012,
+      "difficulty": "HARD",
+      "explanation": "Aerobic respiration could only evolve after photosynthesis had released enough oxygen into the atmosphere to support it."
+    },
+    {
+      "id": 47,
+      "text": "What is a theory in biology?",
+      "options": ["A) The outcome of an experiment", "B) A proof that shows the hypothesis is true", "C) A hypothesis supported by experiments and/or observations.", "D) An opinion or educated guess resulting from observations."],
+      "correctAnswer": 2,
+      "year": 2012,
+      "difficulty": "EASY",
+      "explanation": "A scientific theory is a broad explanation for natural phenomena that has been extensively tested and supported by a large body of evidence."
+    },
+    {
+      "id": 48,
+      "text": "For which of the following is a theodolite used in biology education?",
+      "options": ["A) Measuring the height of trees", "B) Recording positions where a species is found", "C) Measuring the rate of flow of water in a cell.", "D) Measuring the PH of water or soil."],
+      "correctAnswer": 0,
+      "year": 2012,
+      "difficulty": "MEDIUM",
+      "explanation": "A theodolite is a surveying instrument used to measure vertical and horizontal angles, which can be used to calculate the height of trees (hypsometry)."
+    },
+    {
+      "id": 49,
+      "text": "What is the name of the suger found in milk?",
+      "options": ["A) Glucose", "B) Lactose", "C) Maltose", "D) Sucrose"],
+      "correctAnswer": 1,
+      "year": 2012,
+      "difficulty": "EASY",
+      "explanation": "Lactose is a disaccharide found in mammalian milk, composed of glucose and galactose."
+    },
+    {
+      "id": 50,
+      "text": "To which class of enzymes do the digestive enzymes belongs?",
+      "options": ["A) Esterases", "B) Transferases", "C) Hydrolyses", "D) Isomerases"],
+      "correctAnswer": 2,
+      "year": 2012,
+      "difficulty": "MEDIUM",
+      "explanation": "Digestive enzymes are hydrolases because they use water to break the chemical bonds of food molecules (hydrolysis)."
+    },
+    {
+      "id": 51,
+      "text": "Which of the following crops is considered to be the best choice for a better balance of essential amino aides as a human diet?",
+      "options": ["A) Maize", "B) Quinoa", "C) Rice", "D) Wheat"],
+      "correctAnswer": 1,
+      "year": 2012,
+      "difficulty": "MEDIUM",
+      "explanation": "Quinoa is a 'complete protein' source, meaning it contains all nine essential amino acids in proportions needed by humans, unlike most other grains."
+    }
+  ,
+    {
+      "id": 52,
+      "text": "What is the main reason for the high species richness of plants and mammals observed in Ethiopia?",
+      "options": ["A) Lack of predators", "B) Lack of disturbance", "C) Presence of several biomes within the country", "D) Efficient management of the ecological resources"],
+      "correctAnswer": 2,
+      "year": 2012,
+      "difficulty": "MEDIUM",
+      "explanation": "Ethiopia's diverse topography and altitudinal range create a wide variety of ecosystems and biomes, which in turn support a high diversity of plant and animal species."
+    },
+    {
+      "id": 53,
+      "text": "In which type of solution is the water potential more negative than in the cells?",
+      "options": ["A) Hypotonic", "B) Hypertonic", "C) Isotonic", "D) Equal solute and solvent concentration"],
+      "correctAnswer": 1,
+      "year": 2012,
+      "difficulty": "HARD",
+      "explanation": "A hypertonic solution has a higher solute concentration (and thus a more negative water potential) than the cell interior, causing water to move out of the cell."
+    },
+    {
+      "id": 54,
+      "text": "Which of the following paired organelles are membrane-bound?",
+      "options": ["A) Ribosomes and peroxisomes", "B) Chloroplasts and ribosomes", "C) Mitochondria and ribosome", "D) Chloroplasts and mitochondria"],
+      "correctAnswer": 3,
+      "year": 2012,
+      "difficulty": "EASY",
+      "explanation": "Mitochondria and chloroplasts are double-membrane-bound organelles. Ribosomes, by contrast, are not membrane-bound."
+    },
+    {
+      "id": 55,
+      "text": "Most cell membranes are primarily composed of which compounds?",
+      "options": ["A) Proteins and lipids", "B) DNA and ATP", "C) Chitin and starch", "D) Nucleotides and amino acids"],
+      "correctAnswer": 0,
+      "year": 2012,
+      "difficulty": "EASY",
+      "explanation": "Cell membranes are primarily made of a phospholipid bilayer with embedded proteins, following the fluid mosaic model."
+    },
+    {
+      "id": 56,
+      "text": "Which group of micro-organisms cause the diseases known as athlete's foot?",
+      "options": ["A) Bacteria", "B) Fungi", "C) Protozoa", "D) Viruses"],
+      "correctAnswer": 1,
+      "year": 2012,
+      "difficulty": "EASY",
+      "explanation": "Athlete's foot (tinea pedis) is a fungal infection that usually begins between the toes."
+    },
+    {
+      "id": 57,
+      "text": "Choose the one that is different from all the others.",
+      "options": ["A) Genetically modified organisms", "B) Genetically engineered organisms", "C) Pathogenic organisms", "D) Transgenic organisms"],
+      "correctAnswer": 2,
+      "year": 2012,
+      "difficulty": "MEDIUM",
+      "explanation": "Options A, B, and D refer to organisms altered via biotechnology. A pathogenic organism is simply one that causes disease."
+    },
+    {
+      "id": 58,
+      "text": "Under which of the following groups can the fungi be more conveniently placed?",
+      "options": ["A) Autotrophs", "B) Heterotrophs", "C) Prokaryotes", "D) Plants"],
+      "correctAnswer": 1,
+      "year": 2012,
+      "difficulty": "EASY",
+      "explanation": "Fungi are eukaryotic heterotrophs that obtain nutrients through absorption rather than photosynthesis (autotrophy)."
+    },
+    {
+      "id": 59,
+      "text": "What is the type of community called when it has reached the final and most complex stage of a succession?",
+      "options": ["A) Pioneer community", "B) Seral community", "C) Climax community", "D) Secondary community"],
+      "correctAnswer": 2,
+      "year": 2012,
+      "difficulty": "MEDIUM",
+      "explanation": "The climax community is the stable, end-stage of ecological succession that remains until a major disturbance occurs."
+    },
+    {
+      "id": 60,
+      "text": "Which of the following is an ecosystem?",
+      "options": ["A) A Tropical Rain forest", "B) The African continent", "C) All the organisms in a given area", "D) The non-living components of an environment"],
+      "correctAnswer": 0,
+      "year": 2012,
+      "difficulty": "MEDIUM",
+      "explanation": "An ecosystem consists of all the living (biotic) and non-living (abiotic) components in a specific area interacting as a system."
+    },
+    {
+      "id": 61,
+      "text": "Which of the following characteristics can show the evolutionary relationships among organisms?",
+      "options": ["A) Structures having similar function", "B) Structures having same size", "C) Structure having common origin", "D) Structure having different origin"],
+      "correctAnswer": 2,
+      "year": 2012,
+      "difficulty": "MEDIUM",
+      "explanation": "Homologous structures (those with a common evolutionary origin) are used to determine how closely related different species are."
+    },
+    {
+      "id": 62,
+      "text": "The group of the Ethiopian wolf that does NOT contribute to territory marking with urine containing pheromones is:",
+      "options": ["A) Adult males", "B) Adult females", "C) Sub-adult males", "D) Sub-adult females"],
+      "correctAnswer": 3,
+      "year": 2012,
+      "difficulty": "HARD",
+      "explanation": "In Ethiopian wolf packs, scent marking is typically a dominant behavior; sub-adult females are the least likely to engage in territorial marking."
+    },
+    {
+      "id": 63,
+      "text": "In which of the following are flowers and fruits found?",
+      "options": ["A) Ferns and relative", "B) Gymnosperms and ferns", "C) Mosses and conifers", "D) Monocots and dicots"],
+      "correctAnswer": 3,
+      "year": 2012,
+      "difficulty": "EASY",
+      "explanation": "Angiosperms, which include both monocots and dicots, are the only group of plants that produce flowers and protected seeds (fruits)."
+    },
+    {
+      "id": 64,
+      "text": "In a cross between heterozygotes, what proportion is expected to be homozygous recessive?",
+      "options": ["A) 25%", "B) 50%", "C) 75%", "D) 100%"],
+      "correctAnswer": 0,
+      "year": 2012,
+      "difficulty": "MEDIUM",
+      "explanation": "In a Punnett square for Aa x Aa, the genotypes are 1 AA : 2 Aa : 1 aa. The homozygous recessive (aa) proportion is 1/4 or 25%."
+    },
+    {
+      "id": 65,
+      "text": "Gene silencing is the function of one of the following molecules.",
+      "options": ["A) dsRNA", "B) mRNA", "C) siRNA", "D) tRNA"],
+      "correctAnswer": 2,
+      "year": 2012,
+      "difficulty": "HARD",
+      "explanation": "Small interfering RNA (siRNA) plays a key role in the RNA interference (RNAi) pathway, where it inhibits the expression of specific genes."
+    },
+    {
+      "id": 66,
+      "text": "Which process is held responsible for chronic myelogenous leukemia?",
+      "options": ["A) Translocation", "B) Translation", "C) Transcription", "D) Duplication"],
+      "correctAnswer": 0,
+      "year": 2012,
+      "difficulty": "HARD",
+      "explanation": "CML is caused by a chromosomal translocation known as the Philadelphia chromosome, where parts of chromosomes 9 and 22 swap places."
+    },
+    {
+      "id": 67,
+      "text": "Two parents of genotype Aa are cross-bred. The alleles show complete dominance. What proportion of the offspring will phenotypically look like their parents?",
+      "options": ["A) 0", "B) 1/4", "C) 1/2", "D) 3/4"],
+      "correctAnswer": 3,
+      "year": 2012,
+      "difficulty": "MEDIUM",
+      "explanation": "Parents (Aa) show the dominant phenotype. In the offspring (1AA, 2Aa, 1aa), the AA and Aa individuals (3/4) will show the dominant phenotype."
+    },
+    {
+      "id": 68,
+      "text": "Which one of the following concepts contains all the other?",
+      "options": ["A) Species", "B) Genus", "C) Population", "D) Community"],
+      "correctAnswer": 3,
+      "year": 2012,
+      "difficulty": "MEDIUM",
+      "explanation": "A community consists of multiple populations of different species interacting in an area, thus encompassing the other taxonomic and ecological levels listed."
+    },
+    {
+      "id": 69,
+      "text": "Choose the one that is NOT a requirement of all living things.",
+      "options": ["A) Ability to think", "B) Organization of parts", "C) Response to the stimuli", "D) Maintenance of internal constancy"],
+      "correctAnswer": 0,
+      "year": 2012,
+      "difficulty": "EASY",
+      "explanation": "While all living things respond to stimuli and maintain homeostasis, higher-level cognitive 'thinking' is not a universal requirement for life (e.g., bacteria or plants)."
+    },
+    {
+      "id": 70,
+      "text": "What is the advantage of using HAART (highly active antiretroviral therapy) for the treatment of HIV?",
+      "options": ["A) It gives a lasting immunity to HIV", "B) It prevents mutation of HIV.", "C) It prevents re-infection by HIV.", "D) It helps to break the life cycle of HIV."],
+      "correctAnswer": 3,
+      "year": 2012,
+      "difficulty": "MEDIUM",
+      "explanation": "HAART uses a combination of drugs to attack the virus at different stages of its life cycle, effectively reducing viral load."
+    },
+    {
+      "id": 71,
+      "text": "In which of its contents does RNA differ from DNA?",
+      "options": ["A) Deoxyribose and guanine", "B) Ribose and uracil", "C) Ribose and adenine", "D) Phosphate and adenine"],
+      "correctAnswer": 1,
+      "year": 2012,
+      "difficulty": "EASY",
+      "explanation": "RNA contains the sugar ribose and the nitrogenous base uracil, whereas DNA contains deoxyribose and thymine."
+    },
+    {
+      "id": 72,
+      "text": "Which of the following cell types can be rich in lysosomes?",
+      "options": ["A) Red blood cells", "B) Nerve cells", "C) Phagocytic cells", "D) Muscle cells"],
+      "correctAnswer": 2,
+      "year": 2012,
+      "difficulty": "MEDIUM",
+      "explanation": "Phagocytic cells (like macrophages) need many lysosomes to digest the pathogens and debris they ingest."
+    },
+    {
+      "id": 73,
+      "text": "What can one conclude about the contents of the food stuff if a mixture of Benedict's solution and foodstuff remain blue after heating?",
+      "options": ["A) It contains proteins", "B) It lacks starch", "C) It contains fats", "D) It lacks reducing sugar"],
+      "correctAnswer": 3,
+      "year": 2012,
+      "difficulty": "MEDIUM",
+      "explanation": "Benedict's solution is used to test for reducing sugars. A blue result indicates a negative test (no reducing sugar present)."
+    },
+    {
+      "id": 74,
+      "text": "Which of the following types of enzyme inhibitions can be removed when the end product of the metabolic pathway is depleted?",
+      "options": ["A) Allosteric inhibition", "B) Non-reversible inhibition", "C) competitive inhibition", "D) Reversible competitive inhibition"],
+      "correctAnswer": 0,
+      "year": 2012,
+      "difficulty": "HARD",
+      "explanation": "Feedback inhibition often works through allosteric regulation; once the end product is used up, it no longer binds to the allosteric site, allowing the enzyme to function again."
+    },
+    {
+      "id": 75,
+      "text": "If red blood cells shrink when placed in a certain solution, what is the strength of the solution relative to the strength of the protoplasm of the cells?",
+      "options": ["A) Hypotonic", "B) Isotonic", "C) Hypertonic", "D) Isoosmotic"],
+      "correctAnswer": 2,
+      "year": 2012,
+      "difficulty": "MEDIUM",
+      "explanation": "Cells shrink in hypertonic solutions because water moves out of the cell toward the higher solute concentration outside."
+    },
+    {
+      "id": 76,
+      "text": "Which of the following is NOT true about photosystem-II?",
+      "options": ["A) Its reaction center molecule is P680.", "B) It passes its excited electrons to photosystem-I", "C) The energy lost from its excited electrons reduces NADP", "D) It replenishes its lost electrons from photolysis of water."],
+      "correctAnswer": 2,
+      "year": 2012,
+      "difficulty": "HARD",
+      "explanation": "It is Photosystem I (not II) that is directly responsible for reducing NADP+ to NADPH."
+    },
+    {
+      "id": 77,
+      "text": "On which one of the following principles are most of the anti-HIV drugs currently in use working?",
+      "options": ["A) Inhibition of enzyme action", "B) Degradation of viral RNA", "C) Digesting of viral particles", "D) Phagocytosis of the virus"],
+      "correctAnswer": 0,
+      "year": 2012,
+      "difficulty": "MEDIUM",
+      "explanation": "Most ART drugs (like reverse transcriptase inhibitors or protease inhibitors) work by blocking the activity of viral enzymes."
+    },
+    {
+      "id": 78,
+      "text": "Among the following mating, where the ABO blood genotype of the partners are shown, identify the mating in which all the children will have the same blood type.",
+      "options": ["A) AO x BO", "B) AA x OO", "C) AB x BO", "D) BB x AO"],
+      "correctAnswer": 1,
+      "year": 2012,
+      "difficulty": "MEDIUM",
+      "explanation": "AA x OO will only produce offspring with the genotype AO, meaning all children will have Type A blood."
+    },
+    {
+      "id": 79,
+      "text": "If a new mutant allele arises in a certain population, which of the following factors determines if the allele is going to be adaptive or non-adaptive?",
+      "options": ["A) The environment in which the population lives.", "B) The rate at which the gene mutates.", "C) The population in which the gene is found", "D) The use and disuse of the gene by the population"],
+      "correctAnswer": 0,
+      "year": 2012,
+      "difficulty": "MEDIUM",
+      "explanation": "Natural selection is environment-specific; a trait that is beneficial in one environment may be harmful in another."
+    },
+    {
+      "id": 80,
+      "text": "Which of the following is the correct route that connects a stimulus and a response?",
+      "options": ["A) Receptor -> coordinator -> effector", "B) Coordinator -> receptor -> effector", "C) Receptor -> effector -> coordinator", "D) Effector -> receptor -> coordinator"],
+      "correctAnswer": 0,
+      "year": 2012,
+      "difficulty": "EASY",
+      "explanation": "The basic reflex arc or response path is: Receptor (detects stimulus) -> Coordinator (brain/spinal cord) -> Effector (muscle/enzyme)."
+    },
+    {
+      "id": 81,
+      "text": "In which of the following compounds are both members of the pair polymers of carbohydrates that naturally occur in plants only?",
+      "options": ["A) Starch and chitin", "B) Starch and cellulose", "C) Glycogen and cellulose", "D) Glycogen and chitin"],
+      "correctAnswer": 1,
+      "year": 2012,
+      "difficulty": "MEDIUM",
+      "explanation": "Starch and cellulose are plant polysaccharides. Glycogen is found in animals/fungi, and chitin is found in fungi/arthropods."
+    },
+    {
+      "id": 82,
+      "text": "Which of the following is generally expected to give better health benefits when present in human diet?",
+      "options": ["A) Animal fat", "B) Mono unsaturated fatty acid", "C) Saturated fatty acid", "D) Polyunsaturated fatty acid"],
+      "correctAnswer": 3,
+      "year": 2012,
+      "difficulty": "MEDIUM",
+      "explanation": "Polyunsaturated fats (like Omega-3 and Omega-6) are generally considered the healthiest fats for heart health."
+    },
+    {
+      "id": 83,
+      "text": "What is the importance of chemiosmosis in photosynthesis and cellular respiration?",
+      "options": ["A) Splitting of water molecules", "B) Operating the proton pump", "C) Combining hydrogen and carbon", "D) Synthesizing ATP"],
+      "correctAnswer": 3,
+      "year": 2012,
+      "difficulty": "HARD",
+      "explanation": "Chemiosmosis describes the movement of ions across a semipermeable membrane down their electrochemical gradient to generate ATP."
+    },
+    {
+      "id": 84,
+      "text": "If the age pyramid of a certain country is narrowing at the base, what does this tell about the trend of the population size of the country?",
+      "options": ["A) Declining", "B) Growing fast", "C) Increasing slowly", "D) Stabilizing"],
+      "correctAnswer": 0,
+      "year": 2012,
+      "difficulty": "MEDIUM",
+      "explanation": "A narrow base indicates a low birth rate, suggesting the population size will decline over time."
+    },
+    {
+      "id": 85,
+      "text": "Suppose the amino acid coding region in a mRNA is 1200 nucleotides long, how long is the protein in terms of amino acid number?",
+      "options": ["A) 1200 amino acids", "B) 600 amino acids", "C) 400 amino acids", "D) 300 amino acids"],
+      "correctAnswer": 2,
+      "year": 2012,
+      "difficulty": "MEDIUM",
+      "explanation": "It takes 3 nucleotides (a codon) to code for 1 amino acid. 1200 / 3 = 400 amino acids."
+    },
+    {
+      "id": 86,
+      "text": "If a new anti-HIV drug is to be developed to prevent the virus from entering the host cell, which one of the following processes should the drug target?",
+      "options": ["A) Reverse transcription", "B) Binding of Gp120 and CD4", "C) Integration of viral DNA in to host DNA", "D) Assembly of viral parts in to a whole virus"],
+      "correctAnswer": 1,
+      "year": 2012,
+      "difficulty": "MEDIUM",
+      "explanation": "HIV enters the host cell by binding its Gp120 surface protein to the CD4 receptor on T-helper cells."
+    },
+    {
+      "id": 87,
+      "text": "Which one of the following factors is NOT important for evolutionary change of a population?",
+      "options": ["A) Over reproduction", "B) Insufficiency of natural resource", "C) Existence of heritable variations", "D) Survival of all that are born"],
+      "correctAnswer": 3,
+      "year": 2012,
+      "difficulty": "MEDIUM",
+      "explanation": "Evolution by natural selection requires 'differential survival'—the idea that some individuals survive and reproduce better than others. If everyone survived, there would be no selection pressure."
+    },
+    {
+      "id": 88,
+      "text": "One of the following would be harder to see under the ordinary light microscope that is more likely to be available in school laboratories.",
+      "options": ["A) Nucleus", "B) A bacterium", "C) A mitochondrion", "D) A ribosome"],
+      "correctAnswer": 3,
+      "year": 2012,
+      "difficulty": "HARD",
+      "explanation": "Ribosomes are much too small (approx. 20-30nm) to be seen with a standard light microscope; they require an electron microscope."
+    },
+    {
+      "id": 89,
+      "text": "In some human liver cells there are 92 chromosomes per cell. What is the ploidy level of such cells?",
+      "options": ["A) Haploid", "B) Diploid", "C) Tetraploid", "D) Hexaploid"],
+      "correctAnswer": 2,
+      "year": 2012,
+      "difficulty": "MEDIUM",
+      "explanation": "Human cells are normally diploid (2n=46). 92 chromosomes represents exactly four sets (4n), which is tetraploid."
+    },
+    {
+      "id": 90,
+      "text": "Which of the following groups of substances are all inorganic?",
+      "options": ["A) Water, sugar, calcium carbonate", "B) Sugar, fatty acid, amino acid", "C) Water, calcium carbonate, carbon dioxide", "D) Carbon dioxide, amino acid, fatty acid"],
+      "correctAnswer": 2,
+      "year": 2012,
+      "difficulty": "MEDIUM",
+      "explanation": "Water, calcium carbonate, and carbon dioxide are inorganic. Sugars, fatty acids, and amino acids are organic compounds containing carbon-hydrogen bonds."
+    },
+    {
+      "id": 91,
+      "text": "To what kind of animal behavior can the spinning of a web by a spider be classified?",
+      "options": ["A) Learned behavior", "B) Experiential behavior", "C) Instinctive behavior", "D) Accidental behavior"],
+      "correctAnswer": 2,
+      "year": 2012,
+      "difficulty": "EASY",
+      "explanation": "Web spinning is an innate, genetically programmed behavior performed correctly without previous experience."
+    },
+    {
+      "id": 92,
+      "text": "Which of the following is a recently developed active area of research in biology today?",
+      "options": ["A) Taxonomic study", "B) Study about the cell theory", "C) Ecological research", "D) Stem cell research"],
+      "correctAnswer": 3,
+      "year": 2012,
+      "difficulty": "EASY",
+      "explanation": "Stem cell research is a cutting-edge field in modern biology with significant focus on regenerative medicine."
+    },
+    {
+      "id": 93,
+      "text": "Where does the light-dependent reaction of photosynthesis occur in the chloroplast?",
+      "options": ["A) In the thylakoid membrane", "B) In the fluid of the stroma", "C) In all parts of the chloroplast", "D) In the stomatal opening"],
+      "correctAnswer": 0,
+      "year": 2012,
+      "difficulty": "MEDIUM",
+      "explanation": "The light reactions take place in the thylakoid membranes where chlorophyll is located. The light-independent (Calvin) cycle occurs in the stroma."
+    },
+    {
+      "id": 94,
+      "text": "For which of the following is the sugar produced by photosynthesis NOT used?",
+      "options": ["A) To produce biomass.", "B) To make new DNA", "C) To produce ATP in respiration", "D) To produce enzymes"],
+      "correctAnswer": 3,
+      "year": 2012,
+      "difficulty": "HARD",
+      "explanation": "While sugar provides carbon skeletons for many things, enzymes are proteins made from amino acids. Sugars are primarily for energy and structural biomass."
+    },
+    {
+      "id": 95,
+      "text": "In which process is ATP generated during short distance high speed running?",
+      "options": ["A) Aerobic respiration", "B) Mitochondrial energy transformation", "C) Anaerobic respiration", "D) The Krebs cycle"],
+      "correctAnswer": 2,
+      "year": 2012,
+      "difficulty": "MEDIUM",
+      "explanation": "High-intensity, short-duration exercise (like sprinting) relies on anaerobic pathways (lactic acid fermentation) for quick ATP production."
+    },
+    {
+      "id": 96,
+      "text": "Which one of the following choices shows the end products of a mitotic cell division?",
+      "options": ["A) Gametes and ordinary cells", "B) Four genetically different cells", "C) Two genetically different cells", "D) Two genetically identical cells"],
+      "correctAnswer": 3,
+      "year": 2012,
+      "difficulty": "EASY",
+      "explanation": "Mitosis results in two daughter cells that are genetically identical to the parent cell."
+    },
+    {
+      "id": 97,
+      "text": "What exactly happens during a substitution mutation?",
+      "options": ["A) One base is replaced by a different base.", "B) An extra base is added during DNA replication", "C) A base is missed out during DNA replication", "D) Change occur in the arrangement or structure of a chromosome"],
+      "correctAnswer": 0,
+      "year": 2012,
+      "difficulty": "EASY",
+      "explanation": "A substitution is a point mutation where one nucleotide base is swapped for another."
+    },
+    {
+      "id": 98,
+      "text": "During the course of evolution, which of the following events came before all the others?",
+      "options": ["A) Origin of dinosaurs and other reptiles.", "B) Availability of free oxygen in the atmosphere", "C) Origin of the oldest eukaryotic organism", "D) Origin of the first multicellular animals and plants."],
+      "correctAnswer": 1,
+      "year": 2012,
+      "difficulty": "HARD",
+      "explanation": "The Great Oxygenation Event (caused by early cyanobacteria) preceded the evolution of eukaryotes and multicellular life."
+    }
+  ]
+}

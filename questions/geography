@@ -1,0 +1,93 @@
+{
+  "subject": "Geography",
+  "version": 1,
+  "questions": [
+    {
+      "id": 1,
+      "text": "What is the longest river in Africa?",
+      "options": ["A) Congo River", "B) Niger River", "C) Nile River", "D) Zambezi River"],
+      "correctAnswer": 2,
+      "explanation": "The Nile River is the longest river in Africa (and debatably the world) at approximately 6,650 km. It flows northward through 11 countries including Ethiopia, Sudan, and Egypt.",
+      "difficulty": "EASY",
+      "year": 2023
+    },
+    {
+      "id": 2,
+      "text": "Which African country has the largest population?",
+      "options": ["A) Ethiopia", "B) Egypt", "C) South Africa", "D) Nigeria"],
+      "correctAnswer": 3,
+      "explanation": "Nigeria is the most populous country in Africa with over 220 million people. It is also the largest economy in Africa by GDP. Ethiopia is the second most populous.",
+      "difficulty": "EASY",
+      "year": 2022
+    },
+    {
+      "id": 3,
+      "text": "The Great Rift Valley, a major geological feature running through Ethiopia, was formed by:",
+      "options": [
+        "A) Volcanic eruption and lava deposition",
+        "B) Tectonic plate divergence pulling the crust apart",
+        "C) Erosion by the Blue Nile River over millions of years",
+        "D) Tectonic plate convergence and folding"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The East African Rift Valley was formed by the divergence of the African and Somali tectonic plates. The crust is being pulled apart, creating the rift valley system that runs from Afar to Mozambique.",
+      "difficulty": "MEDIUM",
+      "year": 2021
+    },
+    {
+      "id": 4,
+      "text": "What type of climate does most of Ethiopia's highlands experience?",
+      "options": ["A) Tropical rainforest", "B) Desert (arid)", "C) Subtropical highland (Dega)", "D) Mediterranean"],
+      "correctAnswer": 2,
+      "explanation": "Ethiopia's highlands (above 2400 m) have a subtropical highland climate called 'Dega' -- cool temperatures year-round (10-16 degrees C), two rainy seasons, and relatively low humidity.",
+      "difficulty": "MEDIUM",
+      "year": 2022
+    },
+    {
+      "id": 5,
+      "text": "Lake Tana in Ethiopia is the source of which major river?",
+      "options": ["A) White Nile", "B) Blue Nile", "C) Awash River", "D) Omo River"],
+      "correctAnswer": 1,
+      "explanation": "Lake Tana in the Amhara region of Ethiopia is the source of the Blue Nile (Abay). The Blue Nile flows southeast from Lake Tana, then north to join the White Nile at Khartoum, Sudan.",
+      "difficulty": "EASY",
+      "year": 2023
+    },
+    {
+      "id": 6,
+      "text": "Which of the following is the correct definition of latitude?",
+      "options": [
+        "A) The angular distance east or west of the Prime Meridian",
+        "B) The angular distance north or south of the Equator",
+        "C) The height of a location above sea level",
+        "D) The distance between two points on a map"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Latitude is the angular distance north or south of the Equator (0 degrees), measured in degrees from 0 to 90. Longitude is east/west of the Prime Meridian.",
+      "difficulty": "EASY",
+      "year": 2022
+    },
+    {
+      "id": 7,
+      "text": "The Danakil Depression in northeastern Ethiopia is notable for being one of the:",
+      "options": [
+        "A) Highest plateaus in Africa",
+        "B) Hottest and lowest places on Earth",
+        "C) Most densely populated regions of Africa",
+        "D) Largest freshwater reserves in East Africa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Danakil Depression (Afar Region) sits about 125 m below sea level and records some of the highest average temperatures on Earth (35 degrees C average). It has active volcanoes, lava lakes, and salt flats.",
+      "difficulty": "MEDIUM",
+      "year": 2023
+    },
+    {
+      "id": 8,
+      "text": "Which ocean borders the eastern coast of Africa?",
+      "options": ["A) Atlantic Ocean", "B) Pacific Ocean", "C) Indian Ocean", "D) Arctic Ocean"],
+      "correctAnswer": 2,
+      "explanation": "The Indian Ocean borders the eastern coast of Africa. The Atlantic Ocean borders the western coast. The Red Sea and Gulf of Aden border the northeastern coast (near Ethiopia and Djibouti).",
+      "difficulty": "EASY",
+      "year": 2021
+    }
+  ]
+}
